@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="45b8133aa4f5451e982ae3eb865ec7b5" Name="Diagram1">
+        <EntityTypeShape EntityType="TuoZhanModel.BA_Advertisement" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.Cu_Menu" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.Cu_User" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.Cu_UserAuthority" Width="1.5" PointX="0.75" PointY="5.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.P_CITYCALSS" Width="1.5" PointX="2.75" PointY="5.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.TZ_Carousel" Width="1.5" PointX="4.75" PointY="5.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.TZ_Customized" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.TZ_ExpandActivity" Width="1.5" PointX="6.75" PointY="6.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.TZ_ExpandProject" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.TZ_ExpandProjectDetail" Width="1.5" PointX="8.75" PointY="7.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.TZ_ExpandType" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.TZ_ProjectType" Width="1.5" PointX="0.75" PointY="10.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.TZ_Seo" Width="1.5" PointX="2.75" PointY="10.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.ExpandActivity_Project_View" Width="1.5" PointX="10.75" PointY="4.75" />
+        <EntityTypeShape EntityType="TuoZhanModel.TZ_ExpandProject_View" Width="1.5" PointX="4.75" PointY="10.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
