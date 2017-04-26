@@ -398,6 +398,7 @@
     <Content Include="static\plugins\fullavatareditor\scripts\test.js" />
     <None Include="Views\Account\Login.cshtml" />
     <None Include="Views\Home\index.cshtml" />
+    <None Include="Views\Account\AccountIndex.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

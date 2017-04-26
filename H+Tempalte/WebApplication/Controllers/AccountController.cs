@@ -9,7 +9,7 @@ namespace WebApplication.Controllers
     public class AccountController : Controller
     {
         // GET: Account
-        public ActionResult Index()
+        public ActionResult AccountIndex()
         {
             return View();
         }
